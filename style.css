@@ -1,0 +1,79 @@
+body{
+  background-image: url("immagini/background.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.container{
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  text-align: center;
+  background-color:rgba(0,0,0,0.5);
+  border-radius: 5px;
+}
+
+.logo{
+  width: 200px;
+}
+
+.titolo{
+  color: lime;
+  font-size: 25px;
+}
+
+nav{
+  background-color: lime;
+  opacity: 0,5;
+  margin-left: 30px;
+  margin-right: 30px;
+  height: 60px;
+  border-radius: 5px;
+}
+
+ main{
+   color: white;
+   font-size: 25px;
+   font-style: normal;
+   padding: 9px;
+ }
+
+section{
+  text-align: justify;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.progress{
+  width: 75px;
+  height: 30px;
+  background-color: red;
+  border-radius: 5px;
+}
+
+.progress1{
+  width: 150px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.progress2{
+  width: 300px;
+  height: 30px;
+  background-color: lime;
+  border-radius: 5px;
+}
+
+.descr{
+  font-size: 15px;
+}
+
+#perce{
+  font-size: 15px;
+}
+
+.progress__text{
+  font-size: 15px;
+  color: white;
+}
